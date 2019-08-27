@@ -1,0 +1,29 @@
+body {
+  background-color: #a7ffeb;
+}
+
+.btn {
+  border-radius: 100;
+  margin: 20px;
+}
+
+.option, .summary {
+  background-color: #1de9b6;
+  font-size: 15px;
+  margin: 1px;
+}
+
+.summary {
+  padding: 50px;
+}
+
+.option label {
+  cursor: grab;
+  padding: 10px;
+  padding-left: 47%;
+  padding-right: 40%;
+  display: display;
+}
+
+
+
